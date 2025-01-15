@@ -76,6 +76,7 @@
 **Inheritance**: The transmission of traits from parents to offspring.
 
 **Favorable Variations**: Traits that provide an advantage in survival or reproduction.
+
 **Speciation**: The formation of new and distinct species through evolutionary processes.
 
 **Divergence of Character**: The tendency for populations to become more distinct over time due to selection pressures.
@@ -94,6 +95,7 @@
 **Use and Disuse**: The idea that frequently used traits become stronger, while unused traits diminish over generations.
 
 **Inheritance**: The passing of traits from parents to offspring.
+
 **Environmental Influence**: The impact of external factors on the development and variation of traits.
 
 **Spontaneous Variation**: Random, unpredictable changes in traits within a population.
