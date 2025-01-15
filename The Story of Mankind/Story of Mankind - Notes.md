@@ -11,7 +11,7 @@
 <br><br><br><br><br>
 
 # Chapter 5: The Beginning of Civilisation in the Valley of the Nile
-<br><br><br><br><br>
+<br><br><br>
 
 <div style="page-break-after: always;"></div>
 
