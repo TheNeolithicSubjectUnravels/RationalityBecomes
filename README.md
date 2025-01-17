@@ -2,6 +2,15 @@
 
 This project is focused on creating structured learning materials for two *public domain* books: *"On the Origin of Species"* and *"The Story of Mankind."* It includes chapter lists, keywords, and summaries to facilitate learning.
 
+## Index
+
+- [Structure](#structure)
+- [Basic Usage](#basic-usage)
+- [Potential Learning Workflow](#potential-learning-workflow)
+- [Contributing](#contributing)
+- [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
+
 ## Structure
 
 - **On the Origin of Species**
@@ -24,10 +33,40 @@ This project is focused on creating structured learning materials for two *publi
 - **Prompts**
   - Includes the questions used to generate information, such as note taking files, chapter titles in Icelandic and English, key points, and summaries.
 
-## Usage
+## Basic Usage
 
+- Use promts from the [promts folder](./Prompts) for generating the note-taking files, the keyword, chunk and summary files for the book.
+- (Optional) Use any MarkDown to pdf converter for documents to be printed.
 - Review chapter lists and keywords to understand the main topics.
 - Use the summaries to get a brief overview of each chapter.
+- Use the note taking files to capture breif notes when doing initial review of each chapter
+
+## Potential Learning Workflow
+
+1. **Memorize Chapter Names**  
+   Use a rote serial memorization technique to learn the chapter names in order through reinforcement:  
+   - **Print the notes file**: This file includes a few empty lines for each chapter.  
+   - **Initial thoughts**: Fill in the notes file with your initial thoughts on each chapter's subject. (These don’t need to be 100% accurate yet.) This step creates an associated memory for each chapter. As you try to recall the chapters in order, you’ll have context to link them to, resulting in a series of "AHA 💡!" moments for each chapter name you recall.
+
+2. **Explore the Chapter Content**
+   - **Option A**:  
+     - Read the summary file for each chapter.  
+     - Condense the summary into your own words and jot it down on the notes file.  
+
+   - **Option B**:  
+     - Insert all the information for the book into a new ChatGPT project.  
+     - Open a text/voice chat within the project and ask ChatGPT to review the chapters with you.  
+     - Request brief summaries, clarifications, or questions about each chapter. (Again, this does not need to be 100% accurate at this stage.)  
+
+3. **Dive Deeper into Each Chapter**
+   - Once you start remembering the chapter names, apply the same process for individual chapters:  
+     - Use the chunks file and keywords file for context and details.  
+     - Move from rote memorization of chapter names to memorizing the chunks and associating them with the keywords.  
+
+4. **Master the Keywords and Context**
+   - Memorize keyword definitions.  
+   - Give the chapter a full read-through for a deeper understanding.  
+   - Consider live tutoring for further clarification or interactive learning.
 
 ## Contributing
 
