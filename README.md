@@ -46,7 +46,7 @@ This project is focused on creating structured learning materials for two *publi
 1. **Memorize Chapter Names**  
    Use a rote serial memorization technique to learn the chapter names in order through reinforcement:  
    - **Print the notes file**: This file includes a few empty lines for each chapter.  
-   - **Initial thoughts**: Fill in the notes file with your initial thoughts on each chapter's subject. (These don’t need to be 100% accurate yet.) This step creates an associated memory for each chapter. As you try to recall the chapters in order, you’ll have context to link them to, resulting in a series of "AHA 💡!" moments for each chapter name you recall.
+   - **Initial thoughts**: Fill in the notes file with your initial thoughts on each chapter's subject. (These don’t need to be 100% accurate yet.) This step creates an associated memory for each chapter. As you try to recall the chapters in order, you’ll have context to link them to, resulting in a series of "AHA 💡!" moments for each chapter name you recall. Suggestions on how to do this can be found in step two.
 
 2. **Explore the Chapter Content**
    - **Option A**:  
