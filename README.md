@@ -35,11 +35,11 @@ This project is focused on creating structured learning materials for two *publi
 
 ## Basic Usage
 
-- Use promts from the [promts folder](./Prompts) for generating the note-taking files, the keyword, chunk and summary files for the book.
+- Use prompts from the [prompts folder](./Prompts) for generating the note-taking files, the keyword, chunk and summary files for the book.
 - (Optional) Use any MarkDown to pdf converter for documents to be printed.
 - Review chapter lists and keywords to understand the main topics.
 - Use the summaries to get a brief overview of each chapter.
-- Use the note taking files to capture breif notes when doing initial review of each chapter
+- Use the note taking files to capture brief notes when doing initial review of each chapter.
 
 ## Potential Learning Workflow
 
